@@ -1,2 +1,1 @@
-key = m55Qy9P6WvDkJOt1pxNERdIZTxNlSGnZQ8Ajjrvwjro
-event = test_event
+
